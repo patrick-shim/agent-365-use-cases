@@ -1,0 +1,7 @@
+fastmcp>=3.2.2
+fastapi
+uvicorn
+httpx
+azure-identity
+python-dotenv
+openai

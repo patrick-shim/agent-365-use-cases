@@ -1,0 +1,19 @@
+{
+  "tenantId": "0fe87165-87de-443f-b6d6-6471bae991ea",
+  "subscriptionId": "8a325609-e31a-47db-bbb2-e8af4c9f04b2",
+  "resourceGroup": "rg-agent-demos",
+  "location": "koreacentral",
+  "environment": "prod",
+  "messagingEndpoint": "https://p1lzcpj0-8000.jpe1.devtunnels.ms/api/messages",
+  "needDeployment": false,
+  "graphBaseUrl": "https://graph.microsoft.com",
+  "clientAppId": "3b676598-68a4-4b4a-8be8-6143d77df770",
+  "agentIdentityDisplayName": "outlookemailsummary Identity",
+  "agentBlueprintDisplayName": "outlookemailsummary Blueprint",
+  "agentUserPrincipalName": "outlookemailsummary@SCIPCP05985001.onmicrosoft.com",
+  "agentUserDisplayName": "outlookemailsummary Agent User",
+  "managerEmail": "admin@SCIPCP05985001.onmicrosoft.com",
+  "agentUserUsageLocation": "US",
+  "deploymentProjectPath": "C:\\Users\\patrickshim\\Projects\\Production\\obo-agents\\mail-reader-a365",
+  "agentDescription": "outlookemailsummary - Agent 365 Agent"
+}
