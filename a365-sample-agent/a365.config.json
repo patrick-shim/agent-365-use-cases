@@ -1,0 +1,9 @@
+{
+  "tenantId": "0fe87165-87de-443f-b6d6-6471bae991ea",
+  "clientAppId": "85e35000-5c6c-43fb-a26a-673e1b7471eb",
+  "agentIdentityDisplayName": "sample-a365-agent Identity",
+  "agentBlueprintDisplayName": "sample-a365-agent Blueprint",
+  "agentDescription": "sample-a365-agent",
+  "aiTeammate": false,
+  "useBlueprint": true
+}

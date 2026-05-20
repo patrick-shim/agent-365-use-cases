@@ -1,0 +1,30 @@
+{
+  "agentBlueprintId": "7ab4e7e3-555e-4682-8810-8db167ae5261",
+  "agentRegistrationId": "T_b1724b7e-55bd-b7fa-ddb3-4282cbf8dad4",
+  "agentBlueprintObjectId": "7ab4e7e3-555e-4682-8810-8db167ae5261",
+  "agentBlueprintServicePrincipalObjectId": "29003b0b-fddf-4ee3-8810-e96abeba6b41",
+  "agenticAppId": "899abd48-ab2c-4813-9d50-7744e43cb29d",
+  "agentBlueprintClientSecret": "AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAISxgbzH3hUazdS4U2fwKPAAAAAACAAAAAAAQZgAAAAEAACAAAAAeDp/BueYKoUquc/WRH+TX05tlps8fi6iRrDZFaUX6fQAAAAAOgAAAAAIAACAAAADRhHADfo7yypipYs15Ew3U0wgJwDbNHx+F04Ix595JMDAAAABAleSc++L08wxBaMcMIHAGUBQIYLm6v/y94o6dJ/Dt5GSFyb3WGy6RfusO4OEU6dJAAAAAjRPLG7OpqKlIhVcvCjaHzu5kJGzaG2FJGqO/cKYPvgJ+i9G/nPcUn1St6H6jPo3ZzI+5eOjXuvsjOzP9GMbxoQ==",
+  "agentBlueprintClientSecretProtected": true,
+  "resourceConsents": [
+    {
+      "resourceName": "Microsoft Graph",
+      "resourceAppId": "00000003-0000-0000-c000-000000000000",
+      "consentUrl": "",
+      "consentGranted": true,
+      "scopes": [
+        "Mail.ReadWrite",
+        "Mail.Send",
+        "Chat.ReadWrite",
+        "User.Read.All",
+        "Sites.Read.All",
+        "Files.ReadWrite.All",
+        "ChannelMessage.Read.All",
+        "ChannelMessage.Send"
+      ]
+    }
+  ],
+  "lastUpdated": "2026-05-20T01:42:56.981041Z",
+  "cliVersion": "1.1.181.39451",
+  "completed": true
+}

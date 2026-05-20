@@ -8,12 +8,12 @@
   "needDeployment": false,
   "graphBaseUrl": "https://graph.microsoft.com",
   "clientAppId": "3b676598-68a4-4b4a-8be8-6143d77df770",
-  "agentIdentityDisplayName": "outlookemailsummary Identity",
-  "agentBlueprintDisplayName": "outlookemailsummary Blueprint",
-  "agentUserPrincipalName": "outlookemailsummary@SCIPCP05985001.onmicrosoft.com",
-  "agentUserDisplayName": "outlookemailsummary Agent User",
+  "agentIdentityDisplayName": "lg001 Identity",
+  "agentBlueprintDisplayName": "lg001 Blueprint",
+  "agentUserPrincipalName": "lg001@SCIPCP05985001.onmicrosoft.com",
+  "agentUserDisplayName": "lg001 Agent User",
   "managerEmail": "admin@SCIPCP05985001.onmicrosoft.com",
   "agentUserUsageLocation": "US",
-  "deploymentProjectPath": "C:\\Users\\patrickshim\\Projects\\Production\\obo-agents\\mail-reader-a365",
-  "agentDescription": "outlookemailsummary - Agent 365 Agent"
+  "deploymentProjectPath": "C:\\Projects\\Deliveries\\email-summary-agent-with-a365",
+  "agentDescription": "lg001 - Agent 365 Agent"
 }

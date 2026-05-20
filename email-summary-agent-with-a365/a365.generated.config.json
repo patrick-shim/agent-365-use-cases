@@ -1,11 +1,11 @@
 {
   "managedIdentityPrincipalId": null,
-  "agentBlueprintId": "c3d385f8-83d4-4650-8f3e-e1e3e80b163e",
-  "agentBlueprintObjectId": "c3d385f8-83d4-4650-8f3e-e1e3e80b163e",
-  "agentBlueprintServicePrincipalObjectId": "f3088f11-3783-4cf1-b7e2-eff57bcedb22",
+  "agentBlueprintId": "57e8d034-f20e-4bfa-bfab-4aacf3adce0b",
+  "agentBlueprintObjectId": "57e8d034-f20e-4bfa-bfab-4aacf3adce0b",
+  "agentBlueprintServicePrincipalObjectId": "b3500d53-40c5-45c3-9653-44a4dd86822d",
   "AgenticAppId": null,
   "AgenticUserId": null,
-  "agentBlueprintClientSecret": "AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAISxgbzH3hUazdS4U2fwKPAAAAAACAAAAAAAQZgAAAAEAACAAAAA+Et422eAkj6UK18fevtFbO9yTy+n08BJhr6PvdeTPwQAAAAAOgAAAAAIAACAAAACJAzknJCu6h9GUxSTKnSrTgoHAT9hrvcRrXbSI5XjERzAAAABfvPMseyl8o+8VE8Bb8lWwabvkoIoX6QcrUw6lFYuzxWi3xGgUfyHDI0HVbj2ME1JAAAAAyxZWjVENyRKe6rIm3FnRl/h8znp3mXOXnFS8iet7sXMPGqikQ7Fk2nIRvmBkF9pZM/cT27Q3BXWdhnI8X25Xrg==",
+  "agentBlueprintClientSecret": "AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAISxgbzH3hUazdS4U2fwKPAAAAAACAAAAAAAQZgAAAAEAACAAAADUppH/aDTlvhygktWcTuaW8H87ukx43jWtix8DQxUCoQAAAAAOgAAAAAIAACAAAAD0TpKMs2gzgpFemK288Enxr9wAq0QHZoMr5cHWCXzvZzAAAABlDEi+CWEmxaDDVZ1R6yBFo9SHJV75/loWUAls4vO0m6oV5gVHiJ3IeeNTgEygSxNAAAAAPbuc7lyj8H4kuA5Y/yu/FFvqqLpHPQt664SokiNZQO+1YaAKECR7SGcufXfd0rxborSiCwv0JForfrELe7WPKg==",
   "agentBlueprintClientSecretProtected": true,
   "botId": null,
   "botMsaAppId": null,
@@ -14,8 +14,9 @@
     {
       "resourceName": "Microsoft Graph",
       "resourceAppId": "00000003-0000-0000-c000-000000000000",
+      "consentUrl": "",
       "consentGranted": true,
-      "consentTimestamp": "2026-04-09T05:38:53.1645992Z",
+      "consentTimestamp": "2026-04-15T04:51:15.6382045Z",
       "scopes": [
         "Mail.ReadWrite",
         "Mail.Send",
@@ -27,60 +28,60 @@
         "ChannelMessage.Send"
       ],
       "inheritablePermissionsConfigured": true,
-      "inheritablePermissionsAlreadyExist": false
+      "inheritablePermissionsAlreadyExist": true
     },
     {
       "resourceName": "Agent 365 Tools",
       "resourceAppId": "ea9ffc3e-8a23-4a7d-836d-234d7c7565c1",
       "consentGranted": true,
-      "consentTimestamp": "2026-04-09T05:38:53.1650286Z",
+      "consentTimestamp": "2026-04-15T04:51:15.6383324Z",
       "scopes": [
         "McpServersMetadata.Read.All"
       ],
       "inheritablePermissionsConfigured": true,
-      "inheritablePermissionsAlreadyExist": false
+      "inheritablePermissionsAlreadyExist": true
     },
     {
       "resourceName": "Messaging Bot API",
       "resourceAppId": "5a807f24-c9de-44ee-a3a7-329e88a00ffc",
       "consentGranted": true,
-      "consentTimestamp": "2026-04-09T05:38:53.1650341Z",
+      "consentTimestamp": "2026-04-15T04:51:15.6383346Z",
       "scopes": [
         "Authorization.ReadWrite",
         "user_impersonation"
       ],
       "inheritablePermissionsConfigured": true,
-      "inheritablePermissionsAlreadyExist": false
+      "inheritablePermissionsAlreadyExist": true
     },
     {
       "resourceName": "Observability API",
       "resourceAppId": "9b975845-388f-4429-889e-eab1ef63949c",
       "consentGranted": true,
-      "consentTimestamp": "2026-04-09T05:38:53.1650358Z",
+      "consentTimestamp": "2026-04-15T04:51:15.6383351Z",
       "scopes": [
         "user_impersonation",
         "Agent365.Observability.OtelWrite"
       ],
       "inheritablePermissionsConfigured": true,
-      "inheritablePermissionsAlreadyExist": false
+      "inheritablePermissionsAlreadyExist": true
     },
     {
       "resourceName": "Power Platform API",
       "resourceAppId": "8578e004-a5c6-46e7-913e-12f58912df43",
       "consentGranted": true,
-      "consentTimestamp": "2026-04-09T05:38:53.1650375Z",
+      "consentTimestamp": "2026-04-15T04:51:15.6383356Z",
       "scopes": [
         "Connectivity.Connections.Read"
       ],
       "inheritablePermissionsConfigured": true,
-      "inheritablePermissionsAlreadyExist": false
+      "inheritablePermissionsAlreadyExist": true
     }
   ],
   "deploymentLastTimestamp": null,
   "deploymentLastStatus": null,
   "deploymentLastCommitHash": null,
   "deploymentLastBuildId": null,
-  "lastUpdated": "2026-04-09T05:38:53.1785696Z",
+  "lastUpdated": "2026-04-15T04:51:15.6398062Z",
   "cliVersion": "1.1.132.31741",
   "completed": false,
   "completedAt": null
